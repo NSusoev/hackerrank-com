@@ -1,2 +1,2 @@
-# checkio-org
-solutions implemented in JavaScript
+# hackerrank-com
+solutions implemented in Java
